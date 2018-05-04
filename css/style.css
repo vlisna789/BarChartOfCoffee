@@ -1,0 +1,32 @@
+
+#main {
+    padding: 20px;
+}
+.xScale path {
+    fill: none;
+    stroke: rgba(0, 0, 0, 0);
+}
+.barCoffee {
+  fill: #4F3632;
+}
+.barTea{
+  fill:	#D3251C;
+}
+.barEspresso{
+  fill:	#B96723;
+}
+.barHerbalTea {
+  fill: #BFB56E;
+}
+.barCentral{
+  fill: #2577AD;
+}
+.barEast {
+  fill: #FD7F06;
+}
+.barSouth {
+  fill: #25A326;
+}
+.barWest {
+  fill: #D92528;
+}
